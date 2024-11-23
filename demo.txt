@@ -1,0 +1,20 @@
+Line 1: Hello World! This is a test file for regular expression practice.
+Line 2: The quick brown fox jumps over the lazy dog.
+Line 3: Error: 404 Not Found - The requested resource could not be found.
+Line 4: Contact us at support@example.com or info@domain.org for more information.
+Line 5: Phone Numbers: 123-456-7890, 987.654.3210, (555) 123-4567
+Line 6: Date: 2024-09-12 | Time: 14:35:20
+Line 7: Special Characters: !@#$%^&*()_+-=[]{}|;:'",.<>?/`~
+Line 8: IP Addresses: 192.168.1.1, 10.0.0.255, 172.16.254.1
+Line 9: Usernames: john_doe, jane-doe123, admin, guest
+Line 10: The price of the item is $299.99, while the discount is 20%.
+Line 11: Log entry: [INFO] System rebooted successfully at 2024-09-12 12:45:00
+Line 12: Temperature readings: 98.6F, 37.0C, 273.15K
+Line 13: URLs: https://www.example.com, http://domain.org, ftp://ftp.example.net
+Line 14: Shopping Cart: 3 apples, 2 bananas, 5 oranges, total = $15.75
+Line 15: File Paths: /home/user/docs/file.txt, C:\Users\Name\Desktop\file.doc
+Line 16: System Uptime: 5 days, 3 hours, 45 minutes
+Line 17: Error: Failed to connect to 127.0.0.1:8080 at 2024-09-12 16:20:45
+Line 18: Latitude/Longitude: 40.7128° N, 74.0060° W
+Line 19: Invoice #12345 - Due: 2024-10-01 | Total: $1,250.50
+Line 20: MAC Addresses: 00:14:22:01:23:45, AA:BB:CC:DD:EE:FF
